@@ -1,0 +1,14 @@
+Sitemap: https://mine-h.github.io/sitemap.xml
+License: https://mine-h.github.io/license.xml
+
+User-agent: *
+Content-Signal: ai-train=no, search=yes, ai-input=no
+Disallow: /
+Allow: /Portfolio
+Allow: /Portfolio/about
+Allow: /Portfolio/projects/
+Disallow: /Portfolio/dev-files/
+Disallow: /Portfolio/icons/
+Disallow: /Portfolio/projects-showcase/
+Disallow: /Portfolio/education-and-achievements/
+Disallow: /Portfolio/images/TitleBgs/Original/
