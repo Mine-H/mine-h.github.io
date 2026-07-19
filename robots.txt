@@ -11,6 +11,11 @@ Disallow: /Portfolio/icons/
 Disallow: /Portfolio/projects-showcase/
 Disallow: /Portfolio/education-and-achievements/
 Disallow: /Portfolio/images/TitleBgs/Original/
+Allow: /index.html
+Allow: /sitemap.xml
+Allow: /license.xml
+Allow: /robots.txt
+Disallow: /
 
 # Block most known AI crawlers, found here:
 # https://github.com/ai-robots-txt/ai.robots.txt/blob/main/robots.txt
