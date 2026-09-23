@@ -16,6 +16,7 @@ Allow: /index.html
 Allow: /sitemap.xml
 Allow: /license.xml
 Allow: /robots.txt
+Allow: /portfolio/ # page redirect to "/Portfolio/"
 Allow: /about # temporary line
 Disallow: /
 
