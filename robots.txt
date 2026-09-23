@@ -3,18 +3,20 @@ License: https://mine-h.github.io/license.xml
 
 User-agent: *
 Content-Signal: ai-train=no, search=yes, ai-input=no
-Allow: /Portfolio
-Allow: /Portfolio/about
+Allow: /Portfolio/
+Allow: /Portfolio/about/
 Allow: /Portfolio/projects/
 Disallow: /Portfolio/dev-files/
 Disallow: /Portfolio/icons/
-Disallow: /Portfolio/projects-showcase/
-Disallow: /Portfolio/education-and-achievements/
+# Lines removed since these pages now have content="noindex"
+# Disallow: /Portfolio/projects-showcase/
+# Disallow: /Portfolio/education-and-achievements/
 Disallow: /Portfolio/images/TitleBgs/Original/
 Allow: /index.html
 Allow: /sitemap.xml
 Allow: /license.xml
 Allow: /robots.txt
+Allow: /about # temporary line
 Disallow: /
 
 # Block most known AI crawlers, found here:
